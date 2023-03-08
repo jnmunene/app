@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tales from a Tech Savvy Mind</title>
+    <link>https://johnmunene.com/</link>
+    <description>Recent content on Tales from a Tech Savvy Mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://johnmunene.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buffer Overflow - The Basics</title>
+      <link>https://johnmunene.com/posts/buffer-overflow/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnmunene.com/posts/buffer-overflow/</guid>
+      <description>Introduction #     In this blog we&amp;rsquo;ll explore the basics of buffer overflow, then we&amp;rsquo;ll gradually move to more advanced concepts of buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://johnmunene.com/about/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnmunene.com/about/</guid>
+      <description>MY RESUME # I am Informatics and Computer Science Student with a strong background in data structures &amp;amp; algorithms, programming languages such as Python &amp;amp; C++ and experience in fullstack development working with cross-functional teams.</description>
+    </item>
+    
+  </channel>
+</rss>
